@@ -14,8 +14,8 @@ A simple distributed application running across multiple Docker containers.
 
 ## Polyglot/Heterogenous Microservices
 
-This project is to demo an application with heterogenous Microservices built using different technologies and yet can be embeded into a single repository.
-The path based triggering of the pipeline lets you deploy/update individual microservices in the cluster without impacting each other.
+This project is to demo an application with heterogenous Microservices built using different technologies and yet can be embeded into a single repository.   
+The path based triggering of the pipeline lets you deploy/update individual microservices in the cluster without impacting each other.   
 For details please check the pipeline steps: [.github/workflows](.github/workflows)
 
 
